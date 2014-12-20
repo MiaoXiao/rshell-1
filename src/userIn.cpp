@@ -75,7 +75,7 @@ char** userIn::getCmd(int succ){
 
 
 void userIn::clpCmts(){
-    int len = (int)buf.find_first_of("#");
+    unsigned int len = (int)buf.find_first_of("#");
     if (len != std::string::npos){
         buf = buf.substr(0,len);
     }

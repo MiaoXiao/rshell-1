@@ -1,8 +1,3 @@
-README 
-
-    This is by no means an all inclusive list of everything you should have in your README.
-    READMEs can be written in Markdown(.md) or as a text file (.txt).
-
 Program Overview
 
     Project rshell is intended to be a lightweight shell program with strong parsing.
